@@ -1,2 +1,5 @@
 Text
+
+Text afegit per branch 1
+
 Text molt master
